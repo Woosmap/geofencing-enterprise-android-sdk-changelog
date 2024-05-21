@@ -1,4 +1,4 @@
-# Woosmap Geofencing Enterprise Android SDK Change Log
+# Woosmap Geofencing SDK Change Log
 
 All changes to Woosmap Geofencing Enterprise Android SDK are documented here.
 
