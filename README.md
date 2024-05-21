@@ -1,6 +1,6 @@
-# Changelog
+# Woosmap Geofencing Enterprise Android SDK Change Log
 
-All changes to Woosmap Geofencing Enterprise Androi SDK are documented here.
+All changes to Woosmap Geofencing Enterprise Android SDK are documented here.
 
 
 ## `v4.3.1` - May 16, 2024 
