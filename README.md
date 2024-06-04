@@ -2,9 +2,14 @@
 
 All changes to Woosmap Geofencing Enterprise Android SDK are documented here.
 
+## `v4.4.0` - June 4, 2024 
+![version](https://img.shields.io/badge/version-latest-brightgreen)
+
+### Added
+- ✨ Updated the rule that sets the POI radius for Geofencing events. Custom radius attribute takes the first precedence. If not present then the fallback is the static `radius` attribute. If that is not present then a default radius value is set.
+
 
 ## `v4.3.1` - May 16, 2024 
-![version](https://img.shields.io/badge/version-latest-brightgreen)
 
 ### Fixed
 - 🐛 Newly added `refreshPOIs` method does not work as expected when no listener is passed in the parameters.
