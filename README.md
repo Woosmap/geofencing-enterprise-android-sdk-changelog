@@ -2,8 +2,14 @@
 
 All changes to Woosmap Geofencing Enterprise Android SDK are documented here.
 
-## `v4.4.0` - June 4, 2024 
+## `v4.4.1` - June 13, 2024 
 ![version](https://img.shields.io/badge/version-latest-brightgreen)
+
+### Fixed
+- 🐛 Removed R8 minification warnings.
+
+
+## `v4.4.0` - June 4, 2024 
 
 ### Added
 - ✨ Updated the rule that sets the POI radius for Geofencing events. Custom radius attribute takes the first precedence. If not present then the fallback is the static `radius` attribute. If that is not present then a default radius value is set.
